@@ -1,0 +1,5 @@
+inputs/
+models/
+myenv/
+torch_reid_repo/
+outputs/
