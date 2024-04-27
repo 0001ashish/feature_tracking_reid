@@ -9,3 +9,4 @@ yolov8n.pt
 yolov8m.pt
 yolov8_training/
 from_scratch/
+__pycache__/
