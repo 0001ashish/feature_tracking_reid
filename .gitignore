@@ -3,3 +3,9 @@ models/
 myenv/
 torch_reid_repo/
 outputs/
+bytetrack/
+copy_paster.txt
+yolov8n.pt 
+yolov8m.pt
+yolov8_training/
+from_scratch/
